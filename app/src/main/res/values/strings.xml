@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_do_you_want_in_your_burger">What do you want in your burger?</string>
+    <string name="order">Order</string>
+    <string name="text">TEXT</string>
+</resources>
